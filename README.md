@@ -20,6 +20,8 @@ The purpose of this assignment was to create a weather dashboard app utilising J
 
 Please click on the following link for application:
 
+https://luisbonilla89.github.io/Weather-Dashboard/
+
 # Licence
 
 MIT
