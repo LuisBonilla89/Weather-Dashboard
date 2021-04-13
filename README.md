@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The purpose of this assignment was to create a weather dashboard app utilising Javascript and bootstrap frameworks as well as the server side API OpenWeather (https://openweathermap,org)
+The purpose of this assignment was to create a weather dashboard app utilising Javascript and bootstrap frameworks as well as the server side API OpenWeather (https://openweathermap.org)
 
 ## Implementation Details
 
